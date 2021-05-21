@@ -65,7 +65,7 @@ com essa divisão, podemos analisar quantos produtos foram negociados no
 total e em cada ano. Primeiro, apresento o gráfico com o total de
 produtos negociados na base de dados.
 
-![](questao2_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](estagio4i_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
     ## List of 1
     ##  $ legend.position: chr "none"
@@ -78,7 +78,7 @@ responsáveis por mais de um terço das suas importações. Todavia, outra
 análise que pode ser feita é do total de produtos importados e não
 apenas do número de importações:
 
-![](questao2_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](estagio4i_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 Esse segundo gráfico corrobora a tendência apresentada no primeiro, ou
 seja, mostra a importância das importações de produtos de lavanderia.
@@ -92,7 +92,7 @@ Agora, podemos analisar se existe alguma tendência nas negociações dos
 produtos ao longo do tempo, para isso, divido as importações
 mensalmente, tal como a base de dados:
 
-![](questao2_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](estagio4i_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 Analisando os primeiros anos disponíveis é possível ver um certo
 equilíbrio entre os dois tipos de produtos, com alguns meses destoando
@@ -112,7 +112,7 @@ em quantas negociações o país de origem é o mesmo do país de aquisição e
 em quantas negociações eles são diferentes. Para isso, olhamos o gráfico
 a seguir:
 
-![](questao2_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](estagio4i_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 Com isso, podemos ver que existe uma diferença considerável entre os
 países de origem e países de aquisição da maioria das importações. Isso
@@ -132,7 +132,7 @@ aprimorar os procedimentos da empresa. Para isso, eu analiso os 5
 lugares que mais receberam importações da empresa ao longo desse
 período.
 
-![](questao2_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](estagio4i_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 É notável nesse gráfico que apenas Itajaí e os outros grupos que estão
 fora do top-5 recebem mais produtos de cozinha do que de lavanderia.
