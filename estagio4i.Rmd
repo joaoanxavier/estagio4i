@@ -80,7 +80,7 @@ dados %>%
     geom_col() +
     ggtitle("Total de negociações por tipo de produto") +
     xlab("Tipo de Produto") +
-    ylab("Total")
+    ylab("Total") +
     theme(legend.position = "none")
 ```
 

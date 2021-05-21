@@ -67,12 +67,6 @@ produtos negociados na base de dados.
 
 ![](estagio4i_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-    ## List of 1
-    ##  $ legend.position: chr "none"
-    ##  - attr(*, "class")= chr [1:2] "theme" "gg"
-    ##  - attr(*, "complete")= logi FALSE
-    ##  - attr(*, "validate")= logi TRUE
-
 Portanto, os produtos de lavanderia são a maior força da empresa, sendo
 responsáveis por mais de um terço das suas importações. Todavia, outra
 análise que pode ser feita é do total de produtos importados e não
